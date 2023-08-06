@@ -1,10 +1,12 @@
-# Games-R-ust
+# Fast, Light Driver Station (FL-DS)
 
 
-- A rust game engine library with a cheesy name and no other likable attributes based off of FLTK and directly using OpenGL for graphics
-- The goal of Games-R-ust (abbreviated as "grs") is to provide a game engine without abstraction, where concepts are easy to understand but give a deeper understnding of the language
-- The library is written in c++ but the end product is a 2d game engine for rust 
+- FL-DS is a FRC driver station for linux built on the LibDS and FLTK frameworks, it's primary goal is to be lightweight
+- FRC is a international robotics competition for high school students, I am a member of #8230 the Koibots 
+- LibDS is a framework for building custom driver stations with C, FLTK is a C++ GUI framework made to be lightweight
 
+### Disclaimers:
+This is not meant to actually be used as a driver station, my own team will not be using it. This is more of an experiment for my own learning. If your team is interested in actually using it, reach out to me and I will take it's development a little more seriosly 
 
 
 
