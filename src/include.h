@@ -1,5 +1,8 @@
 #ifndef include_h
 #define include_h
+
+#include "../../LibDS/include/LibDS.h"
+
 #include <FL/Fl.H>
 #include <FL/Fl_Double_Window.H>
 #include <FL/Fl_Box.H>
@@ -12,7 +15,6 @@
 #include <FL/gl.h>
 #include <FL/Fl_Gl_Window.H>
 
-#include "../../LibDS/include/LibDS.h"
 
 
 
